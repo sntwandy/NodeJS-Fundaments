@@ -1,2 +1,4 @@
 /package/npm/node_modules
 /package/npm/package-lock.json
+/package/utils/node_modules
+/package/utils/package-lock.json
